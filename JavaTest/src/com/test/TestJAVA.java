@@ -4,7 +4,7 @@ import java.util.Locale;
 
 public class TestJAVA {
 	public static void main(String[] args) throws Exception {
-		System.out.println(Locale.getDefault().getCountry());
+		System.out.println("test update");
 	}
 
 }
